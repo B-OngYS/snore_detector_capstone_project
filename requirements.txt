@@ -1,0 +1,6 @@
+librosa
+librosa.display
+io
+matplotlib.pyplot
+pickle
+numpy == 1.21.0
