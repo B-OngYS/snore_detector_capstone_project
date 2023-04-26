@@ -9,7 +9,7 @@ Snoring can be an indicator of sleep apnea where a person might stop breathing f
 
 # Problem Statement
 
-The main goal of the project is to build a classifcation model that will detect the prescence of snoring in a sound clip.
+The main goal of the project is to build a classification model that will detect the prescence of snoring in a sound clip.
 
 We will be using accuracy as our main metric.
 
