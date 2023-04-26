@@ -85,7 +85,7 @@ With more audio expertise, we could also use the MFCCs to provide some explanati
 
 I would like to thank the following for their support and training:
 
-- The instruactional staff including Ryan Chang, Ming Jie Tan, and Jimmy at General Assembly for their training
+- The instruactional staff including Ryan Chang, Ming Jie Tan, and Jimmy at General Assembly for their training and support.
 
 - My wife, Bek Wuay Tang, for her support through this transition period from being a teacher to a computer scientist.
 
