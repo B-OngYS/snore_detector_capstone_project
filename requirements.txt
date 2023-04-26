@@ -1,5 +1,4 @@
 librosa
-librosa.display
 io
 matplotlib.pyplot
 pickle
