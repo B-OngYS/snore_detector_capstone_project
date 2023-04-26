@@ -1,4 +1,3 @@
 librosa
 matplotlib
-pickle
 numpy == 1.21.0
