@@ -1,5 +1,4 @@
 librosa
-io
-matplotlib.pyplot
+matplotlib
 pickle
 numpy == 1.21.0
